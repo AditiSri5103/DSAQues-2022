@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution
 {
     boolean checkIsAP(int arr[] ,int n)
