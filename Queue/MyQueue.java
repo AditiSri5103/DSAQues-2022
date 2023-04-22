@@ -1,4 +1,4 @@
-package Stack.Queue;
+package Queue;
 
 class MyQueue {
     int f=-1,r=-1,n=1000;

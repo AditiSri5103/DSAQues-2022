@@ -1,4 +1,4 @@
-package Stack.Queue;
+package Queue;
 
 public class MyCircularQueue 
 {
